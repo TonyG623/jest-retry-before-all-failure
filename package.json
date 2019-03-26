@@ -1,0 +1,12 @@
+{
+  "name": "test-repo",
+  "version": "0.0.1",
+  "description": "Test Repo for https://github.com/facebook/jest/issues/8221",
+  "author": "tony grollo",
+  "license": "none",
+  "devDependencies": {
+    "jest": "^24.5.0",
+    "jest-circus": "^24.5.0",
+    "jest-junit": "^6.3.0"
+  }
+}
